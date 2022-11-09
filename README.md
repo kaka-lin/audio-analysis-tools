@@ -1,7 +1,8 @@
-# Audio Tools
+# Audio Analysis Tools
 
-1. Audio Analysis
-    - [Fast Fourier Transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
+This repo is for audio analysis
+
+- [Fast Fourier Transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
 
 ## Require
 
